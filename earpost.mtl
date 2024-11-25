@@ -1,0 +1,121 @@
+# Blender 4.2.1 LTS MTL File: 'Nasuni0.3.blend'
+# www.blender.org
+
+newmtl Accessory_CatEar_01_CLOTH_(Instance)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_12.png
+map_Ke C:/Shader_NoneBlack.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal.png
+
+newmtl Accessory_FoxTail_01_CLOTH_(Instance)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_13.png
+map_Ke C:/Shader_NoneBlack.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal.png
+
+newmtl Material.003
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.004
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl N00_000_00_Body_00_SKIN_(Instance)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_10.png
+map_Ke C:/Shader_NoneBlack.png
+map_Bump -bm 1.000000 C:/_11.png
+
+newmtl N00_001_02_Bottoms_01_CLOTH_(Instance)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_15.png
+map_Ke C:/Shader_NoneBlack.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal.png
+
+newmtl N00_007_01_Tops_01_CLOTH_(Instance)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_19.png
+map_Ke C:/Shader_NoneBlack.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal.png
+
+newmtl N00_007_02_Tops_01_CLOTH_(Instance)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_14.png
+map_Ke C:/Shader_NoneBlack.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal.png
+
+newmtl N00_010_01_Onepiece_00_CLOTH_01_(Instance)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_16.png
+map_Ke C:/Shader_NoneBlack.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal.png
+
+newmtl N00_010_01_Onepiece_00_CLOTH_02_(Instance)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_17.png
+map_Ke C:/Shader_NoneBlack.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal.png
+
+newmtl N00_010_01_Onepiece_00_CLOTH_03_(Instance)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/_18.png
+map_Ke C:/Shader_NoneBlack.png
+map_Bump -bm 1.000000 C:/Shader_NoneNormal.png
